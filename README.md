@@ -11,7 +11,7 @@ I **build, sell, vanish, repeat.**
 - 🏢 Founded **[Aviyon](https://github.com/ImmanuelBTaylor/aviyon)** (college).  
 - 💰 Sold my first platform in high school, more in college.  
 - 🌐 Built **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** & the **[unyverse](https://github.com/ImmanuelBTaylor/unyverse)**, plus hidden social networks.  
-- 🔧 Developing **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** (DeFi on **Motoko** on **[UNYProtocol](https://github.com/ImmanuelBTaylor/UNYProtocol)** soon **[KodoCoin](https://github.com/ImmanuelBTaylor/unycoin)**).
+- 🔧 Developing **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** (DeFi on **Motoko** on **[UNYProtocol](https://github.com/ImmanuelBTaylor/unyProtocol)** soon **[unyCoin](https://github.com/ImmanuelBTaylor/unycoin)**).
 - 💻 Developing **[amity.social](https://github.com/ImmanuelBTaylor/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atproto)**
 - ☁ Developing **[nimbus.ai](https://github.com/ImmanuelBTaylor/nimbus.ai)** & **Thunderhead** TBA
 - 💃 I created **[CelebrityCrush](https://github.com/ImmanuelBTaylor/CelebrityCrush)** and other questionable things dont judge me lol
