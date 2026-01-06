@@ -20,7 +20,7 @@ I **build, sell, vanish, repeat.**
 
 ### **🏆 Interests**  
 - 🧘 Minimalism, Stoicism, Learning
-- 📈 Trading, Investing, NFTs, **[Aviyontrading](https://github.com/ImmanuelBTaylor/aviyontrading)**
+- 📈 Trading, Investing, NFTs, **[Stoploss](https://github.com/ImmanuelBTaylor/stoploss)**, **[Aviyontrading](https://github.com/ImmanuelBTaylor/aviyontrading)**
 - 🎸 Music, **[guitar.ai](https://github.com/ImmanuelBTaylor/guitar.ai)** & **[piano.ai](https://github.com/the-real-kodoninja/piano.ai)**
 - 🎮 Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)
 - 💻 PC Building, Filmmaking, Editing*
