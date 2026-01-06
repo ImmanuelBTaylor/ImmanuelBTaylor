@@ -11,8 +11,8 @@ I **build, sell, vanish, repeat.**
 - 🏢 Founded **[Aviyon](https://github.com/ImmanuelBTaylor/aviyon)** (college).  
 - 💰 Sold my first platform in high school, more in college.  
 - 🌐 Built **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** & the **[unyverse](https://github.com/ImmanuelBTaylor/unyverse)**, plus hidden social networks.  
-- 🔧 Developing **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** (DeFi on **Motoko** on **[UNYProtocol](https://github.com/ImmanuelBTaylor/unyProtocol)** soon **[unyCoin](https://github.com/ImmanuelBTaylor/unycoin)**).
-- 💻 Developing **[amity.social](https://github.com/ImmanuelBTaylor/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atproto)**
+- 🔧 Developing **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)**, on the **[ULEProtocol](https://github.com/ImmanuelBTaylor/unyProtocol)** soon **[ULE](https://github.com/ImmanuelBTaylor/ule)**).
+- 💻 Developing **[amity.social](https://github.com/ImmanuelBTaylor/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atprotol)**
 - ☁ Developing **[nimbus.ai](https://github.com/ImmanuelBTaylor/nimbus.ai)** & **Thunderhead** TBA
 - 💃 I created **[CelebrityCrush](https://github.com/ImmanuelBTaylor/CelebrityCrush)** and other questionable things dont judge me lol
    </td>
@@ -24,9 +24,9 @@ I **build, sell, vanish, repeat.**
 - 🎸 Music, **[guitar.ai](https://github.com/ImmanuelBTaylor/guitar.ai)** & **[piano.ai](https://github.com/the-real-kodoninja/piano.ai)**
 - 🎮 Gaming (PC, Xbox, PlayStation, Nintendo, Steam…)
 - 💻 PC Building, Filmmaking, Editing*
-- 📄 Collecting **[Certifications](https://github.com/ImmanuelBTaylor/the-real-kodoninja/blob/main/Education/Certifications%20%26%20Certificates/CERTIFICATIONS.md)**
+- 📄 Collecting **[Certifications](https://github.com/ImmanuelBTaylor/blob/main/Education/Certifications%20%26%20Certificates/CERTIFICATIONS.md)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmanuelBTaylor&theme=transparent&layout=compact&size_weight=0.5&hide_progress=true)](https://github.com/the-real-kodoninja)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImmanuelBTaylor&theme=transparent&layout=compact&size_weight=0.5&hide_progress=true)](https://github.com/ImmanuelBTaylor)
 
    </td>
   </tr>
