@@ -12,7 +12,7 @@ I **build, sell, vanish, repeat.**
 - 💰 Sold my first platform in high school, more in college.  
 - 🌐 Built **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)** & the **[unyverse](https://github.com/ImmanuelBTaylor/unyverse)**, plus hidden social networks.  
 - 🔧 Developing **[ibth.com](https://github.com/ImmanuelBTaylor/ibth)**, on the **[ULEProtocol](https://github.com/ImmanuelBTaylor/unyProtocol)**, **[ULE](https://github.com/ImmanuelBTaylor/ule)**.
-- 💻 Developing **[amity.social](https://github.com/ImmanuelBTaylor/amity)** and others on the **[ATProtocol]([https://github.com/bluesky-social/atprotol)**
+- 💻 Developing **[amity.social](https://github.com/ImmanuelBTaylor/amity)** and others on the **[ULEProtocol](https://github.com/ImmanuelBTaylor/unyProtocol)**
 - ☁ Developing **[nimbus.ai](https://github.com/ImmanuelBTaylor/nimbus.ai)** & **Thunderhead** TBA
 - 💃 I created **[CelebrityCrush](https://github.com/ImmanuelBTaylor/CelebrityCrush)** and other questionable things dont judge me lol
    </td>
