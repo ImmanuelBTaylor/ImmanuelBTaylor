@@ -7,7 +7,7 @@
 ### **Bio**  
 Hey, I’m **Immanuel**—an **introvert**, but outspoken; a **creator**, but a ghost.  
 I **code, trade, invest, and train** like I’m prepping for the Olympics.  
-I **build, sell, vanish, repeat.**  
+I **don't have friends** so I don't have a Facebook.  
 - 🏢 Founded **[Aviyon](https://github.com/ImmanuelBTaylor/aviyon)** (college).  
 - 💰 Sold my first platform in high school, more in college.  
 - 💻 Built **[amity](https://github.com/ImmanuelBTaylor/amity)**, plus hidden social networks in 2015.
