@@ -14,7 +14,7 @@ I **don't have friends** so I don't have a Facebook.
 - 🏕️ Built **kodoninja** & the **kdoverse** in 2019 as a vagabond, that became **[uny](https://github.com/ImmanuelBTaylor/uny)** & the **[unyverse](https://github.com/ImmanuelBTaylor/unyverse)** in 2025.
 - 🤖 Building the **[nimbus](https://github.com/ImmanuelBTaylor/nimbus.ai)** Agent **[AVIY](https://github.com/ImmanuelBTaylor/aviy)** in 2026.
 - 🔧 Developing **[ibth](https://github.com/ImmanuelBTaylor/ibth)**, **[uny](https://github.com/ImmanuelBTaylor/uny)** and others on the **[ULE](https://github.com/Unyversal-Liquidity-Exchange)**.
-- ☁ Developing **[nimbus.ai](https://github.com/ImmanuelBTaylor/nimbus.ai)** & **Thunderhead** on the **ULE & ULEProtocol**
+- ☁ Developing **[nimbus.ai](https://github.com/ImmanuelBTaylor/nimbus.ai)** & **Cumulonimbus** on the **ULE & ULEProtocol**
 - 💃 I created **[CelebrityCrush](https://github.com/ImmanuelBTaylor/CelebrityCrush)** and other questionable things dont judge me lol
    </td>
    <td style="border: none;">
